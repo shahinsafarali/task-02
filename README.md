@@ -22,6 +22,6 @@ I implemented all parts of task. I spend almost 5 hours for this task. According
 I should not be used any framework, that is why I had created a basic stylesheet for table, pagination and 404 page.
 
 
-Please contact me if you have any questions. You can also watch screen recording of task features. It is in project dir.
-
+Please contact me if you have any questions. You can also watch screen recording of task features. 
+https://streamable.com/f20igp
 https://www.t.me/myawesomeusername
