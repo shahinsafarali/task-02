@@ -1,10 +1,11 @@
 
 ## Setting up project
-
-1. Set database credentials
-2. Set `QUEUE_CONNECTION=database`
-3. Call `php artisan migrate:fresh --seed` to populate database
-4. Sample employees file is in project dir. Find `employees.xml`
+0. Run `composer install` and `php artisan key:generate`
+2. Set database credentials
+3. Set `QUEUE_CONNECTION=database`
+4. Call `php artisan migrate:fresh --seed` to populate database
+5. Sample employees file is in project dir. Find `employees.xml`
+6. Run `php artisan queue:work`
 
 Notes:
 Since the task description did not include from where I should 
