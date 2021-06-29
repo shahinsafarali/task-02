@@ -20,7 +20,8 @@ easily add another payment type in the future. However, this kind of things usua
 requirements of project. Maybe there won't be another type, so we might not need this functionality eventually.
 
 I implemented all parts of task. I spend almost 5 hours for this task. According to task description
-I should not be used any framework, that is why I had created a basic stylesheet for table, pagination and 404 page.
+I should not be used any framework, tool (except Laravel, MySql, javascript/Vue.js, html, css), 
+that is why I had created a basic stylesheet for table, pagination and 404 page.
 
 
 Please contact me if you have any questions. You can also watch screen recording of task features. 
